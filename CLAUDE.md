@@ -11,7 +11,7 @@ This is a **Claude Code skills workspace** for BioTalk's social media team. It c
 - `.claude/skills/biotalksocialmedia/` — the primary skill for monthly Instagram content planning
   - `SKILL.md` — skill logic, steps, and output format
   - `BioTalk_BrandGuidelines.md` — brand identity reference (colors, typography, logo rules)
-- `BioTalk_BrandGuidelines.md` — root-level copy of the brand guidelines
+- `.claude/agents/` — place future agent definitions here
 
 ## The `biotalksocialmedia` Skill
 
